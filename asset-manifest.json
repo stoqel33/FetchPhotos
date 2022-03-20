@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FetchPhotos/static/css/main.5b768d2f.css",
+    "main.js": "/FetchPhotos/static/js/main.20c58bec.js",
+    "index.html": "/FetchPhotos/index.html",
+    "main.5b768d2f.css.map": "/FetchPhotos/static/css/main.5b768d2f.css.map",
+    "main.20c58bec.js.map": "/FetchPhotos/static/js/main.20c58bec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b768d2f.css",
+    "static/js/main.20c58bec.js"
+  ]
+}
